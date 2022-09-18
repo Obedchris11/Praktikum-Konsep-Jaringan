@@ -1,0 +1,96 @@
+Kabel UTP merupakan kabel yang digunakan untuk menghubungkan berbagai perangkat keras jaringan kepada komputer.
+ada 8 kabel yang berbeda warna pada kabel UTP yaitu 
+-Putih orange
+-Orange
+-Putih biru
+-Biru
+-Putih hijau
+-Hijau
+-Putih coklat
+-Coklat
+
+Nah untuk bisa menggunakan kabel UTP ini Anda masih perlu mensetting ujung kabel dengan menambahkan konektor RJ-45.Karena konektor yang ada pada hardware jaringan 
+dan komputer biasanya menggunakan konektor RJ-45,caranya mudah yang terpenting Anda memiliki tang crimping.
+
+Dalam pemasangan kabel UTP terdapat dua jenis pemasangan kabel yang sering digunakan dalam jaringan internet, 
+yaitu Straight Through Cable dan Cross Over Cable.Keduanya memiliki urutan pemasangan warna kabel yang berbeda, agar tidak salah urutan berikut penjelasan 
+mengenai susunan warna kabel straight dan cross dalam jaringan.
+
+KABEL STRAIGHT
+Kabel straight merupakan jenis kabel yang memiliki cara pemasangan yang sama antara ujung satu dengan ujung lainnya.
+Fungsi kabel straight ini biasanya digunakan untuk pemasangan device yang berbeda. Kabel tipe straight ini paling banyak digunakan sampai saat ini karena fungsinya.
+Contoh penggunaan kabel straight:
+-Menghubungkan komputer dengan switch jaringan
+-Menghubungkan komputer dengan hub jaringan
+-Menghubungkan komputer dengan router jaringan
+-Menghubungkan komputer dengan LAN
+-Menghubungkan switch dengan hub jaringan
+-Menghubungkan switch dengan router jaringan
+
+
+Untuk susunan warna kabel straight ujung satu dengan ujung lainnya sama.urutannya seperti berikut:
+  -Putih Orange
+  -Orange
+  -Putih Hijau
+  -Biru
+  -Putih Biru
+  -Hijau
+  -Putih Coklat
+  -Coklat
+
+KABEL CROSS
+Kabel cross merupakan kabel dengan susunan warna yang berbeda setiap ujungnya. Fungsi kabel cross ini digunakan untuk menghubungkan device yang sama.
+Ini merupakan kebalikan dari kabel straight,Kabel cross sendiri lebih sedikit penggunaannya jika dibandingkan dengan kabel straight
+
+Contoh penggunaan kabel cross
+  -Menghubungkan komputer dengan komputer
+  -Menghubungkan switch dengan switch
+  -Menghubungkan hub dengan hub
+  -Menghubungkan router dengan router
+
+Susunan Warna Kabel Cross
+Kabel cross memiliki warna yang berbeda pada setiap ujungnya.Seperti ini susunan warnanya:
+Warna kabel cross ujung 1
+  -Putih orange
+  -Orange
+  -Putih hijau
+  -Biru
+  -Putih biru
+  -Hijau
+  -Putih coklat
+  -coklat
+Warna kabel cross ujung 2
+  -putih hijau
+  -hijau
+  -putih orange
+  -biru
+  -putih biru
+  -orange
+  -putih coklat
+  -coklat
+  
+  
+ Perbedaan Kabel Straight dan Cross
+Paling mudah membedakan antara kabel straight dan crossover adalah urutan warnanya, untuk kaber cross ada beberapa urutan warna dari kabel straight yang dibalik.
+Selain itu perbedaanya kabel straight digunakan untuk device yang berbeda, sedangkan kabel straight digunakan untuk device yang sama.
+
+
+
+Cara untuk melakukan crimping kabel yang benar:
+  1.Siapkan peralatan crimping
+Ada beberapa peralatan yang diperlukan saat melakukan crimping kabel diantaranya kabel UTP sesuai dengan keperluan, konektor
+RJ45 secukupnya, tang crimping untuk membuka kabel LAN dan terakhir lan tester.
+
+  2.Potong isolator kabel UTP
+Selanjutnya lakukan pemotongan pada isolator kabel UTP bagian luar, potong kira-kira 3-4 cm. Kemudian pisahkan antara satu kabel 
+dengan kabel lainnya sekalian diluruskan.Jika sudah urutkan sesuai dengan keperluan apakah mau membuat kabel straight atau cross,
+lalu silahkan potong secara lurus semua kabel tersebut agar nantinya saat pemasangan pada soket RJ45 tidak ada masalah.
+  
+  3.Pasang kabel UTP
+Langkah selanjutnya adalah memasukan pada konektor RJ45.
+Pastikan pemasangannya jangan sampai terbalik, cara mengenalinya untuk kunci konektor RJ45 berada di bawah kemudian masukan dan 
+pastikan semuanya sudah lurus.
+
+  4.Kunci RJ45
+Selanjutnya Anda tinggal mengunci konektor RJ45 dengan menggunakan tang crimping, pastikan hingga terdengar suara klik pada 
+konektor RJ45.
